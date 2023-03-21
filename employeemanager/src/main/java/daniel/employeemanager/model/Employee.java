@@ -24,7 +24,7 @@ public class Employee implements Serializable {
 
   public Employee(String name, String email, String jobTitle, String phone, String imageURL, String employeeCode) {
     this.name = name;
-    this.email = email.;
+    this.email = email;
     this.jobTitle = jobTitle;
     this.phone = phone;
     this.imageURL = imageURL;
@@ -84,7 +84,7 @@ public class Employee implements Serializable {
   }
 
   public void setEmployeeCode(String employeeCode) {
-    this.employeeCode = employeeCode
+    this.employeeCode = employeeCode;
   }
 
   @Override
