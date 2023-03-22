@@ -1,5 +1,5 @@
 # EmployeeManager
-A simple web application project that mangages employees of an organization/company.
+A simple web application project that mangages employees of a fake organization/company.
 
 ## Goals for the project
 1. Learn Angular and practice frontend development using JavaScript, HTML, CSS
