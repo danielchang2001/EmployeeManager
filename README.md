@@ -7,4 +7,4 @@ A simple web application project that mangages employees of an organization/comp
 3. Database practice using MYSQL and tools Postman and HTTPie
 
 ## Reference
-[Amigoscode: Spring Boot Full Stack with Angular] (https://www.youtube.com/watch?v=Gx4iBLKLVHk)
+[Amigoscode: Spring Boot Full Stack with Angular](https://www.youtube.com/watch?v=Gx4iBLKLVHk)
