@@ -2,7 +2,7 @@
 A simple web application project that mangages employees of an organization/company.
 
 ## Goals for the project
-1. Practice frontend development using Angular and JavaScript 
+1. Learn Angular and practice frontend development using JavaScript, HTML, CSS
 2. Learn Java and backend development using Spring Boot and JPA (Java Persistence API) to build services performing basic CRUD operations
 3. Database practice using MySQL and tools like Postman and HTTPie
 
